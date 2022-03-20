@@ -11,7 +11,7 @@ The metrics from the original analysis made remained the same. This is feasible 
 <img width="1023" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/85206793/159185309-4b75ffe7-f8a0-4018-9376-3310de85c3d7.png">
 
 ### District Summary Modified
-<img width="1023" alt="District_Summary_Modified" src="https://user-images.githubusercontent.com/85206793/159185334-5c71f2df-7aaa-4e03-9af1-583d8dd9447f.png">
+<img width="1023" alt="PyCitySchool_Modified" src="https://user-images.githubusercontent.com/85206793/159186218-8c605649-5bb0-4177-9dea-c28b3a29d889.png">
 
 * You can see above that the the Average Math Score was affected slightly by a .01 margin which is very negligible.
 * The percentage of people passing math and reading were also slightly affected by a .02 and .03 margin respectively.
