@@ -25,7 +25,7 @@ The metrics from the original analysis made remained the same. This is feasible 
 <img width="1023" alt="PyCitySchool_Modified" src="https://user-images.githubusercontent.com/85206793/159186218-8c605649-5bb0-4177-9dea-c28b3a29d889.png">
 
 The following table is from the most recent analysis, where the math and reading scores for 9th graders at Thomas High School was removed. We can see that the only differences are the averages and percent passing at Thomas High School. Even with the removal of certain data:
-* The overall results remained fairly the same.
+* The overall performances dipped by .03 and below for the math, reading and overall results but with those margins they remained fairly the same.
 * There are no drastic changes that affect the schools spending
 * There are no other changes affecting the analysis by size of the school 
 * There are no chnages with the school type as well
