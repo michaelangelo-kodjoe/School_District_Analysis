@@ -17,7 +17,7 @@ The purpose of this analysis is to replace the inaccurate data for the 9th grade
 The metrics from the original analysis made remained the same. This is feasible because of the large data set given, and removing only a small portion of the data (math and reading scores for 9th graders at Thomas High School) would not change the data drastically. Below is the table from the original analysis, which includes the math and reading scores for 9th graders at Thomas High School.
 
 ### School Perfomance Original
-<img width="1028" alt="PyCitySchool_Original" src="https://user-images.githubusercontent.com/85206793/159184553-d2971336-e0a5-40f1-9cbf-9d31470340c0.png">
+<img width="1023" alt="PyCitySchool_Original" src="https://user-images.githubusercontent.com/85206793/159185985-4e0159b7-62bf-41bb-a4f9-4a5ee1336f3a.png">
 
 ### School Performance Modified
 <img width="1056" alt="PyCitySchool_Modified" src="https://user-images.githubusercontent.com/85206793/159185382-0179c73e-d795-4ee5-ba8b-a00259d11c36.png">
